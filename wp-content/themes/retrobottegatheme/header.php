@@ -24,7 +24,7 @@
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
               <ul class="nav navbar-nav">    
-		  <li><a href="#">Our services</a></li>
+		  <li><a href="#services">Our services</a></li>
 		  <li><a href="#">Blog</a></li>
                   <li><a href="#contact">Contact us</a></li>      
               </ul>
