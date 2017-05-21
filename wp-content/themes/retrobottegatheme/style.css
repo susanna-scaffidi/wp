@@ -1,3 +1,79 @@
-body {
-	
+h1 {
+	font-family: "Georgia";
+	padding-top: 140px;
+	text-align: center;	
+}
+
+h2 {
+	color: #366b23;
+	font-family: "Georgia";
+	font-size: 25px;
+	font-style: italic;
+	margin: -5px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	text-align: center;
+}
+
+h3 {
+	font-family: "Georgia";
+	font-size: 40px;
+	text-align: center;
+}
+
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
+    background-color: #95ce69;
+    border-color: #6ca441; 
+}
+
+.jumbotron {
+	background: url("./images/rb9.jpg") no-repeat;
+	background-size: cover;
+	min-height: 800px;
+}
+
+.navbar-brand {
+	background: url("./images/logo.png") no-repeat;
+	width: 120px;
+	height: 40px;
+}
+
+.navbar-default {
+	background: transparent;
+	border-color: transparent;
+}
+
+.navbar-default .navbar-collapse .nav.navbar-nav a:hover {
+ 	color: #569135;
+ }
+
+.navbar-default .navbar-nav>li>a {
+	color: #253729;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.nav.navbar-nav a:hover {
+ 	color: #366b23;
+}
+
+.row-form>.col-lg-12 {
+    padding: 50px 0 50px 0;
+}
+
+.row-form {
+    padding: 0px 10% 100px 10%;
+}
+
+@media (max-width: 750px) {
+	.navbar-default .navbar-collapse { 
+		background: rgba(0,0,0,0.05);
+		border-color: transparent;	
+	}
+	.navbar-default .navbar-nav>li>a {
+		color: #253729;
+		font-size: 20px;
+		text-align: center;	
+	}
 }
