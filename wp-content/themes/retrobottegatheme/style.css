@@ -21,10 +21,6 @@ h3 {
 	text-align: center;
 }
 
-t1 {
-	background :url ("./image/t1.jpg") no-repeat;
-}	
-
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
     background-color: #95ce69;
     border-color: #6ca441; 
@@ -70,6 +66,7 @@ t1 {
 }
 
 .row-services {
+	background :url ("./image/t1.jpg") no-repeat;
 	padding: 30px 10% 30px 10%;
 }
 
