@@ -69,6 +69,10 @@ h3 {
 	padding: 30px 10% 30px 10%;
 }
 
+.thumbnail .garden {
+	background: url("./images/t1.jpg") no-repeat;
+}
+
 @media (max-width: 750px) {
 	.navbar-default .navbar-collapse { 
 		background: rgba(0,0,0,0.05);
