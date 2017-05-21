@@ -10,12 +10,12 @@
       <h3>Our Services</h3>
       <h2>Flowers for every need</h2>
     </div>
-  </div>https://github.com/susanna-scaffidi/wp/tree/master/wp-content/themes/retrobottegatheme
+  </div>
   <div class="row row-services">
     <div class="col-lg-12 text-center">
       <div class="col-sm-6 col-md-4">
-        <a href="#" class="thumbnail">
-          <img src="./images/t1.jpg" class="img-responsive" alt="">
+        <a href="#t1" class="thumbnail">
+          <a class="img-responsive" alt="">
         </a>  
           <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
       </div>
