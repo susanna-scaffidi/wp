@@ -66,8 +66,11 @@ h3 {
 }
 
 .row-services {
-	background :url ("./image/t1.jpg") no-repeat;
 	padding: 30px 10% 30px 10%;
+}
+
+.t1 {
+	background :url ("./image/t1.jpg") no-repeat;
 }
 
 @media (max-width: 750px) {
