@@ -20,8 +20,8 @@
           <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
       </div>
       <div class="col-sm-6 col-md-4">
-        <a href="#" class="thumbnail" class="img-respo>nsive"></a>
-	      <t1></t1>
+        <a href="#" class="thumbnail"></a>
+	      
           <p><a href="#" class="btn btn-success" role="button">Wedding</a></p>
       </div>
       <div class="col-sm-6 col-md-4">
