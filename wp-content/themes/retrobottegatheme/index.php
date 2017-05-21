@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 	  <div class="row">   
-        <h1>RETROBOTTEGA</h1><li></li>
-        <h2>Floral design shop</h2>   
+        <h1><?php bloginfo('name') ?></h1>
+        <h2><?php bloginfo('description') ?></h2>   
     </div>
   </div>
 
