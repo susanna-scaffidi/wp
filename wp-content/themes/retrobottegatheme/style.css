@@ -27,13 +27,13 @@ h3 {
 }
 
 .jumbotron {
-	background: url("../images/rb9.jpg") no-repeat;
+	background: url("./images/rb9.jpg") no-repeat;
 	background-size: cover;
 	min-height: 800px;
 }
 
 .navbar-brand {
-	background: url("../images/logo.png") no-repeat;
+	background: url("./images/logo.png") no-repeat;
 	width: 120px;
 	height: 40px;
 }
