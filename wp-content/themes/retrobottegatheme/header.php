@@ -23,18 +23,10 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-              <ul class="nav navbar-nav">
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services<span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="#">Garden</a></li>
-                    <li><a href="#">Wedding</a></li>
-                    <li><a href="#">Workshops</a></li>
-                  </ul>
-                  <li><a href="#">Blog</a></li>
-                  <li><a href="#">Find us</a></li>
-                  <li><a href="#contact">Contact us</a></li>
-                </li>
+              <ul class="nav navbar-nav">    
+		  <li><a href="#">Our services</a></li>
+		  <li><a href="#">Blog</a></li>
+                  <li><a href="#contact">Contact us</a></li>      
               </ul>
             </ul>
           </div><!-- /.navbar-collapse -->
