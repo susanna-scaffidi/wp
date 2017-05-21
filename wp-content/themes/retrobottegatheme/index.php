@@ -5,7 +5,7 @@
     </div>
   </div>
 
-  <div class="row" id="services">
+   <div class="row" id="services">
     <div class="col-lg-12 text-center">
       <h3>Our Services</h3>
       <h2>Flowers for every need</h2>
@@ -14,21 +14,22 @@
   <div class="row row-services">
     <div class="col-lg-12 text-center">
       <div class="col-sm-6 col-md-4">
-        <a href="#t1" class="thumbnail">
-          <a class="img-responsive" alt="">
+        <a href="#" class="thumbnail">
+          <img src="./images/t1.jpg" class="img-responsive" alt="">
         </a>  
           <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
       </div>
       <div class="col-sm-6 col-md-4">
-        <a href="#" class="thumbnail"></a>
-	      
-          <p><a href="#" class="btn btn-success" role="button">Wedding</a></p>
+        <a href="#" class="thumbnail">
+          <img src="./images/t2.jpg" class="img-responsive" alt="">
+        </a>
+            <p><a href="#" class="btn btn-success" role="button">Wedding</a></p>
       </div>
       <div class="col-sm-6 col-md-4">
       <a href="#" class="thumbnail">
         <img src="./images/t3.jpg" class="img-responsive" alt="">
       </a>
-        <p><a href="#" class="btn btn-success" role="button">Workshops</a></p>
+          <p><a href="#" class="btn btn-success" role="button">Workshops</a></p>
       </div>
     </div>
   </div>
