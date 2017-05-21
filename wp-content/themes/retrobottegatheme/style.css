@@ -69,10 +69,6 @@ h3 {
 	padding: 30px 10% 30px 10%;
 }
 
-.t1 {
-	background :url ("./image/t1.jpg") no-repeat;
-}
-
 @media (max-width: 750px) {
 	.navbar-default .navbar-collapse { 
 		background: rgba(0,0,0,0.05);
