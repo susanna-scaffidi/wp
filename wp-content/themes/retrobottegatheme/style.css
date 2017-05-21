@@ -21,20 +21,19 @@ h3 {
 	text-align: center;
 }
 
-
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
     background-color: #95ce69;
     border-color: #6ca441; 
 }
 
 .jumbotron {
-	background: url("./images/rb9.jpg") no-repeat;
+	background: url("../images/rb9.jpg") no-repeat;
 	background-size: cover;
 	min-height: 800px;
 }
 
 .navbar-brand {
-	background: url("./images/logo.png") no-repeat;
+	background: url("../images/logo.png") no-repeat;
 	width: 120px;
 	height: 40px;
 }
@@ -64,6 +63,10 @@ h3 {
 
 .row-form {
     padding: 0px 10% 100px 10%;
+}
+
+.row-services {
+	padding: 30px 10% 30px 10%;
 }
 
 @media (max-width: 750px) {
