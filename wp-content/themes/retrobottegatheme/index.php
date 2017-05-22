@@ -5,7 +5,7 @@
     </div>
   </div>
 
-   <div class="row" id="services">
+  <div class="row" id="services">
     <div class="col-lg-12 text-center">
       <h3>Our Services</h3>
       <h2>Flowers for every need</h2>
