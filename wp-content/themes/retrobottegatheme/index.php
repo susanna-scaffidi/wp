@@ -17,6 +17,9 @@
         <a href="#" class="img-thumbnail img-circle">
           <img src="<?php bloginfo('template_url');?>/images/t1.jpg" class="img-responsive img-circle" alt="">
         </a>
+             <div class="caption">
+               <p>We help you design your garden</p>
+          </div>
           <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
       </div>
       <div class="col-sm-6 col-md-4">
@@ -24,7 +27,7 @@
           <img src="<?php bloginfo('template_url');?>/images/t2.jpg" class="img-responsive img-circle" alt="">
         </a>
            <div class="caption">
-               <p>hello</p>
+               <p>The perfect bouquet</p>
           </div>
             <p><a href="#" class="btn btn-success" role="button">Wedding</a></p>
       </div>
@@ -32,6 +35,9 @@
       <a href="#" class="img-thumbnail img-circle">
         <img src="<?php bloginfo('template_url');?>/images/t3.jpg" class="img-responsive img-circle" alt="">
       </a>
+            <div class="caption">
+               <p>Learn how to style your flowers</p>
+          </div>
           <p><a href="#" class="btn btn-success" role="button">Workshops</a></p>
       </div>
     </div>
