@@ -11,4 +11,8 @@ $(document).ready(function(){
             window.location.hash = target;
         });
     });
+    
+     $(document).ready(function() {
+                $('#form').validator({
+     });
 });
