@@ -60,7 +60,7 @@
             <label for="inputName" class="control-label">Name</label>
             <div class="input-group">
               <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-              <input type="text" class="form-control input-lg" id="inputName" placeholder="Your name" data-error="Please insert your name" required>
+              <input type="text required" class="form-control input-lg" id="inputName" placeholder="Your name" data-error="Please insert your name">
             </div>
             <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
             <div class="help-block with-errors"></div>
