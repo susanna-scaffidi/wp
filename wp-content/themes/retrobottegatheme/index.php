@@ -16,9 +16,9 @@
       <div class="col-sm-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="<?php bloginfo('template_url');?>/images/t1.jpg" class="img-responsive" alt="">
-        </a>
+         </div>
           <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
-      </div>
+
       <div class="col-sm-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="<?php bloginfo('template_url');?>/images/t2.jpg" class="img-responsive" alt="">
