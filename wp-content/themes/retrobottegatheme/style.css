@@ -21,6 +21,9 @@ h3 {
 	text-align: center;
 }
 
+#contact {
+	background-color: #f1fbd8
+}
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
     	background-color: #5cb85c;
@@ -32,10 +35,6 @@ h3 {
 	padding-bottom: 10px;
 	padding-top: 15px;
 	text-align: center;
-}
-
-#contact {
-	background-color: #f1fbd8
 }
 
 .jumbotron {
@@ -69,19 +68,17 @@ h3 {
  	color: #366b23;
 }
 
-
 .row-contact {
 	background-color: #f1fbd8;
-}
-
-
-.row-form>.col-lg-12 {
-   	 padding: 50px 0 50px 0;
 }
 
 .row-form {
     background-color: #f1fbd8;
     padding: 0px 10% 100px 10%;
+}
+
+.row-form>.col-lg-12 {
+   	 padding: 50px 0 50px 0;
 }
 
 .row-services {
