@@ -27,11 +27,6 @@ h3 {
 }
 
 .img-thumbnail  {
-	border: 1px solid #c5c5c5;
-background: #d5d5d5;
-display: block;
-padding: 6px;
-text-decoration: none;
 -moz-border-radius: 50%;
 -webkit-border-radius: 50%;
 border-radius: 50%;
