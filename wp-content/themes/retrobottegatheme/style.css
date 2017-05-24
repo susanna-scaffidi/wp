@@ -18,7 +18,6 @@ h2 {
 h3 {
 	font-family: "Georgia";
 	font-size: 40px;
-	padding-top: 10px;
 	padding-bottom: 10px;
 	text-align: center;
 }
@@ -80,7 +79,7 @@ h3 {
 }
 
 .row-services {
-	padding: 0px 10% 50px 10%;
+	padding: 30px 10% 50px 10%;
 }
 
 #services {
