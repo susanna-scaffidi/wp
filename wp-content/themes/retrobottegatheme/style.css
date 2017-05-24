@@ -41,6 +41,10 @@ h3 {
 	padding: 20px 10% 20px 10%;
 }
 
+.img-thumbnail {
+	padding: 20px 10% 20px 10%;
+} 
+
 .jumbotron {
 	background: url("./images/rb9.jpg") no-repeat;
 	background-size: cover;
