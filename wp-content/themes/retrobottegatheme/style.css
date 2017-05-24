@@ -26,7 +26,11 @@ h3 {
     	border-color: #6ca441; 
 }
 
-.img-thumbnail .img-responsive {
+.img-responsive {
+	border-radius: 50%;
+}
+
+.img-thumbnail {
 	border-radius: 50%;
 }
 
