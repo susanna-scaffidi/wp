@@ -1,6 +1,6 @@
 h1 {
 	font-family: "Georgia";
-	padding-top: 140px;
+	padding-top: 120px;
 	text-align: center;	
 }
 
@@ -84,7 +84,7 @@ h3 {
 }
 
 .row-services {
-	padding: 20px 10% 50px 10%;
+	padding: 30px 10% 50px 10%;
 }
 
 @media (max-width: 750px) {
