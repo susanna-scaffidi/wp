@@ -11,6 +11,7 @@
       <h2>Flowers for every need</h2>
     </div>
   </div>
+  <div class="container">
   <div class="row row-services">
     <div class="col-lg-12 text-center">
       <div class="col-sm-6 col-md-4">
@@ -42,6 +43,7 @@
       </div>
     </div>
   </div>
+</div>
 
   <div class="row" id="contact">
     <div class="col-lg-12 text-center">
