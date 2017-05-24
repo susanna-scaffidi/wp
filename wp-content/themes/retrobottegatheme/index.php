@@ -5,7 +5,7 @@
     </div>
   </div>
 
-<div class="container">  
+<div class="container id=servicescontainer">  
 <div class="row" id="services">
     <div class="col-lg-12 text-center">
       <h3>Our Services</h3>
