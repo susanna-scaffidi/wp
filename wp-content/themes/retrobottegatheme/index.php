@@ -11,6 +11,7 @@
       <h2>Flowers for every need</h2>
     </div>
   </div>
+   <caption><?php bloginfo('description') ?></caption>   
   <div class="row row-services">
     <div class="col-lg-12 text-center">
       <div class="col-sm-6 col-md-4">
@@ -36,7 +37,7 @@
         <img src="<?php bloginfo('template_url');?>/images/t3.jpg" class="img-responsive img-circle" alt="">
       </a>
             <div class="caption">
-                <p>>Would you like to learn how to style your flowers?</p>
+                <p>Would you like to learn how to style your flowers?</p>
           </div>
           <p><a href="#" class="btn btn-success" role="button">Workshops</a></p>
       </div>
