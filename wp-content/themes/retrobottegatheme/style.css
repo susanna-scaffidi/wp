@@ -26,21 +26,11 @@ h3 {
     	border-color: #6ca441; 
 }
 
-.img-thumbnail  {
--moz-border-radius: 50%;
--webkit-border-top-left-radius: 50x;
--webkit-border-top-right-radius: 50px;
--webkit-border-bottom-left-radius: 50px;
--webkit-border-bottom-right-radius: 50px;
-border-radius: 50%;
+.img-thumbnail .rounded-img  {
+	border-radius: 50%;
 }
 
 .img-responsive {
-	-moz-border-radius: 50%;
-	-webkit-border-top-left-radius: 50x;
--webkit-border-top-right-radius: 50px;
--webkit-border-bottom-left-radius: 50px;
--webkit-border-bottom-right-radius: 50px;
 	border-radius: 50%;
 }
 
