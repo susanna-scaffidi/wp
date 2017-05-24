@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-	  <div class="row">   
+    <div class="row">   
         <h1><?php bloginfo('name') ?></h1>
         <h2><?php bloginfo('description') ?></h2>   
     </div>
@@ -16,9 +16,9 @@
       <div class="col-sm-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="<?php bloginfo('template_url');?>/images/t1.jpg" class="img-responsive" alt="">
-         </div>
+        </a>
           <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
-
+      </div>
       <div class="col-sm-6 col-md-4">
         <a href="#" class="thumbnail">
           <img src="<?php bloginfo('template_url');?>/images/t2.jpg" class="img-responsive" alt="">
