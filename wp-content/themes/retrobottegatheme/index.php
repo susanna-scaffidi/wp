@@ -5,7 +5,6 @@
     </div>
   </div>
 
-  <div class="container">
   <div class="row" id="services">
     <div class="col-lg-12 text-center">
       <h3>Our Services</h3>
@@ -43,7 +42,7 @@
       </div>
     </div>
   </div>
-</div>
+
 
   <div class="row" id="contact">
     <div class="col-lg-12 text-center">
