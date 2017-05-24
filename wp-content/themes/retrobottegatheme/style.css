@@ -78,7 +78,7 @@ h3 {
 }
 
 .row-form>.col-lg-12 {
-   	 padding: 50px 0 50px 0;
+   	 padding: 50px 0 50px -50;
 }
 
 .row-services {
