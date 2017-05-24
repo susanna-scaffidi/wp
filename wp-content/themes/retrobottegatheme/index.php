@@ -14,7 +14,7 @@
   <div class="row row-services">
     <div class="col-lg-12 text-center">
       <div class="col-sm-6 col-md-4">
-        <a href="#" class="img-thumbnail">
+        <a href="#" class="img-thumbnail rounded-img">
           <img src="<?php bloginfo('template_url');?>/images/t1.jpg" class="img-responsive" alt="">
         </a>
           <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
