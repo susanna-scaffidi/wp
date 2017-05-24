@@ -37,7 +37,7 @@
         <img src="<?php bloginfo('template_url');?>/images/t3.jpg" class="img-responsive img-circle" alt="">
       </a>
             <div class="caption">
-                <p>Would you like to learn how to styling flowers?</p>
+                <p>Would you like to learn how to style flowers?</p>
           </div>
           <p><a href="#" class="btn btn-success" role="button">Workshops</a></p>
       </div>
