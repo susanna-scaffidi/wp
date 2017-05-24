@@ -21,17 +21,21 @@ h3 {
 	text-align: center;
 }
 
-.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
-    	background-color: #5cb85c;
-    	border-color: #6ca441; 
-}
-
-.caption {
+h4 {
 	font-family: "Georgia";
 	padding-bottom: 10px;
 	padding-top: 15px;
 	text-align: center;
 }
+
+
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
+    	background-color: #5cb85c;
+    	border-color: #6ca441; 
+}
+
+
 
 .jumbotron {
 	background: url("./images/rb9.jpg") no-repeat;
