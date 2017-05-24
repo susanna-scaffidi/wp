@@ -18,7 +18,7 @@
           <img src="<?php bloginfo('template_url');?>/images/t1.jpg" class="img-responsive img-circle" alt="">
         </a>
              <div class="caption">
-               <p>Do you need help designing your garden?</p>
+               <p>Do you need help with your outdoor design?</p>
           </div>
           <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
       </div>
