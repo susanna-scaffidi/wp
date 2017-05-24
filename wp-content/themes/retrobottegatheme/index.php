@@ -53,7 +53,7 @@
       <h2>We are happy to help you!</h2>
     </div>
   </div>
-  <form role="form" data-toggle="validator">
+  <form role="form" data-toggle="validator" <?php bloginfo('stylesheet_directory'); ?>/js/validator.js>
     <div class="row row-form">
       <div class="col-lg-12">
           <div class="form-group has-feedback">
@@ -86,7 +86,7 @@
             <label for="inputText" class="control-label">Message</label>
             <div class="input-group">
               <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
-              <textarea class="form-control input-lg" rows="3" placeholder="Why are you contacting us?" required=""></textarea>
+              <textarea class="form-control input-lg" rows="3" placeholder="Why are you contacting us?" required></textarea>
             </div>
             <span class="glyphicon form-control-feedback" aria-hidden="true"></span>
           </div>
