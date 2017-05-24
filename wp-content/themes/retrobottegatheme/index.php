@@ -5,13 +5,13 @@
     </div>
   </div>
 
+  <div class="container">
   <div class="row" id="services">
     <div class="col-lg-12 text-center">
       <h3>Our Services</h3>
       <h2>Flowers for every need</h2>
     </div>
   </div>
-  <div class="container">
   <div class="row row-services">
     <div class="col-lg-12 text-center">
       <div class="col-sm-6 col-md-4">
