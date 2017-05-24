@@ -37,6 +37,10 @@ h3 {
 	text-align: center;
 }
 
+.container {
+	padding: 30px 10% 30px 10%;
+}
+
 .jumbotron {
 	background: url("./images/rb9.jpg") no-repeat;
 	background-size: cover;
