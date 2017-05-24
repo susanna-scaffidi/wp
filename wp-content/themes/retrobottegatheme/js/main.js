@@ -13,6 +13,6 @@ $(document).ready(function(){
     });
     
      $(document).ready(function() {
-                $('#form').validator({
+                $('#validator').validator({
      });
 });
