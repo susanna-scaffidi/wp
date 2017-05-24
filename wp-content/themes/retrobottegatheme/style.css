@@ -27,21 +27,21 @@ h3 {
 }
 
 .img-thumbnail  {
--moz-border-radius: 50px;
+-moz-border-radius: 50%;
 -webkit-border-top-left-radius: 50x;
 -webkit-border-top-right-radius: 50px;
 -webkit-border-bottom-left-radius: 50px;
 -webkit-border-bottom-right-radius: 50px;
-border-radius: 50px;
+border-radius: 50%;
 }
 
 .img-responsive {
-	-moz-border-radius: 50px;
+	-moz-border-radius: 50%;
 	-webkit-border-top-left-radius: 50x;
 -webkit-border-top-right-radius: 50px;
 -webkit-border-bottom-left-radius: 50px;
 -webkit-border-bottom-right-radius: 50px;
-	border-radius: 50px;
+	border-radius: 50%;
 }
 
 .jumbotron {
