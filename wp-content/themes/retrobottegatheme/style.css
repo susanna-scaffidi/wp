@@ -37,6 +37,10 @@ h3 {
 	text-align: center;
 }
 
+.col-sm-6 .col-md-4 {
+	padding: 0 10% 0 10%;
+}
+
 .jumbotron {
 	background: url("./images/rb9.jpg") no-repeat;
 	background-size: cover;
@@ -92,3 +96,4 @@ h3 {
 		text-align: center;	
 	}
 }
+
