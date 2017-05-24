@@ -18,13 +18,9 @@ h2 {
 h3 {
 	font-family: "Georgia";
 	font-size: 40px;
-	padding-top: 20px;
+	padding-top: 10px;
 	padding-bottom: 10px;
 	text-align: center;
-}
-
-#contact {
-	background-color: #e1f0c9;
 }
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
@@ -39,10 +35,8 @@ h3 {
 	text-align: center;
 }
 
-#services {
-	padding: 0px 10% 0px 10%;
-	width: 100%; 
-	
+#contact {
+	background-color: #e1f0c9;
 }
 
 .jumbotron {
@@ -82,11 +76,16 @@ h3 {
 }
 
 .row-form>.col-lg-12 {
-    padding: 50px 0 0px 0;
+    padding: 50px 0 50px 0;
 }
 
 .row-services {
 	padding: 30px 10% 50px 10%;
+}
+
+#services {
+	padding: 0px 10% 0px 10%;
+	width: 100%; 	
 }
 
 @media (max-width: 750px) {
