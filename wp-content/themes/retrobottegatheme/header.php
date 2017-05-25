@@ -33,3 +33,4 @@
         </div><!-- /.container-fluid -->
       </nav>
   </div> 
+	  <link rel=”validator” href=”<?php bloginfo(‘template_url’); ?>/vendors/js/validator.js” type=”text” />
