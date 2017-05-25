@@ -12,5 +12,13 @@ $(document).ready(function(){
         });
     });
 });
-    
+
+  $(window).on('load', function () {
+    $('form[data-toggle="validator"]').each(function () {
+      var $form = $(this)
+      Plugin.call($form, $form.data())
+    })
+  })
+
+}(jQuery);
 
