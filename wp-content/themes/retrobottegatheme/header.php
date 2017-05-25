@@ -4,6 +4,10 @@
 	<title></title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <?php wp_head(); ?>  
+	<?php // form validation ?>
+	<?php if (is_single()) : ?>
+		<script src="<?php bloginfo('template_url'); ?>/vendors/js/validator.js" type="text/javascript"></script>
+<?php endif; ?>
 </head>
 <body>
   <div class="jumbotron">
