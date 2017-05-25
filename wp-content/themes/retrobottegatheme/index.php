@@ -46,7 +46,7 @@
 </div>
                                                                                        
                                                               
-
+  <?php bloginfo('template_url'); ?>/ 
   <div class="row" id="contact">
     <div class="col-lg-12 text-center">
       <h3>Contact us</h3>
