@@ -5,51 +5,50 @@
     </div>
   </div>
 
-<div class="container">
-<div class="row" id="services">
-    <div class="col-lg-12 text-center">
-      <h3>Our Services</h3>
-      <h2>Flowers for every need</h2>
+  <div class="container">
+    <div class="row" id="services">
+      <div class="col-lg-12 text-center">
+          <h3>Our Services</h3>
+          <h2>Flowers for every need</h2>
+      </div>
     </div>
-  </div>
-  <div class="row row-services">
-    <div class="col-lg-12 text-center">
-      <div class="col-sm-6 col-md-4">
-        <a href="#" class="img-thumbnail img-circle">
-          <img src="<?php bloginfo('template_url');?>/images/t1.jpg" class="img-responsive img-circle" alt="">
-        </a>
-             <div class="caption">
-                 <p>Get help with outdoor design</p>
-          </div>
-          <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
-      </div>
-      <div class="col-sm-6 col-md-4">
-        <a href="#" class="img-thumbnail img-circle">
-          <img src="<?php bloginfo('template_url');?>/images/t2.jpg" class="img-responsive img-circle" alt="">
-        </a>
-           <div class="caption">
-               <p>Find the perfect bouquet</p>
-          </div>
+    <div class="row row-services">
+      <div class="col-lg-12 text-center">
+        <div class="col-sm-6 col-md-4">
+          <a href="#" class="img-thumbnail img-circle">
+            <img src="<?php bloginfo('template_url');?>/images/t1.jpg" class="img-responsive img-circle" alt="">
+          </a>
+            <div class="caption">
+                <p>Get help with outdoor design</p>
+            </div>
+            <p><a href="#" class="btn btn-success" role="button">Garden</a></p>    
+        </div>
+        <div class="col-sm-6 col-md-4">
+          <a href="#" class="img-thumbnail img-circle">
+            <img src="<?php bloginfo('template_url');?>/images/t2.jpg" class="img-responsive img-circle" alt="">
+          </a>
+            <div class="caption">
+                <p>Find the perfect bouquet</p>
+            </div>
             <p><a href="#" class="btn btn-success" role="button">Wedding</a></p>
-      </div>
-      <div class="col-sm-6 col-md-4">
-      <a href="#" class="img-thumbnail img-circle">
-        <img src="<?php bloginfo('template_url');?>/images/t3.jpg" class="img-responsive img-circle" alt="">
-      </a>
+        </div>
+        <div class="col-sm-6 col-md-4">
+          <a href="#" class="img-thumbnail img-circle">
+            <img src="<?php bloginfo('template_url');?>/images/t3.jpg" class="img-responsive img-circle" alt="">
+          </a>
             <div class="caption">
                 <p>Learn how to style flowers</p>
-          </div>
-          <p><a href="#" class="btn btn-success" role="button">Workshops</a></p>
+            </div>
+            <p><a href="#" class="btn btn-success" role="button">Workshops</a></p>
+        </div>
       </div>
     </div>
   </div>
-</div>
-                                                                                       
                                                              
   <div class="row" id="contact">
     <div class="col-lg-12 text-center">
-      <h3>Contact us</h3>
-      <h2>We are happy to help you!</h2>
+        <h3>Contact us</h3>
+        <h2>We are happy to help you!</h2>
     </div>
   </div>
   <form role="form" data-toggle="validator">
@@ -105,5 +104,7 @@
               <button type="submit" class="btn btn-default btn-lg">Submit</button>
             </div>
           </div>
+      </div>
+    </div>      
   </form>
 <?php get_footer(); ?>
