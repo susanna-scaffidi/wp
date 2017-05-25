@@ -20,11 +20,11 @@ h3 {
 	font-size: 40px;
 	padding-bottom: 10px;
 	text-align: center;
-}
+	}
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active {
-    	background-color: #5cb85c;
-    	border-color: #6ca441; 
+	background-color: #5cb85c;
+	border-color: #6ca441; 
 }
 
 .caption {
@@ -56,7 +56,7 @@ h3 {
 }
 
 .navbar-default .navbar-collapse .nav.navbar-nav a:hover {
- 	color: #5cb85c;
+	color: #5cb85c;
  }
 
 .navbar-default .navbar-nav>li>a {
@@ -66,16 +66,16 @@ h3 {
 }
 
 .nav.navbar-nav a:hover {
- 	color: #366b23;
+	color: #366b23;
 }
 
 .row-form {
-    	background-color: #e1f0c9;
-    	padding: 0 10% 0 10%;
+	background-color: #e1f0c9;
+	padding: 0 10% 0 10%;
 }
 
 .row-form>.col-lg-12 {
-    	padding: 50px 0 50px 0;
+	padding: 50px 0 50px 0;
 }
 
 .row-services {
