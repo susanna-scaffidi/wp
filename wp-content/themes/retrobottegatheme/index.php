@@ -52,7 +52,7 @@
       <h2>We are happy to help you!</h2>
     </div>
   </div>
-  <form role="form" data-toggle="validator" href="<?php bloginfo(‘template_url’);?>/vendors/js/validator.js">
+  <form role="form" data-toggle="validator">
     <div class="row row-form">
       <div class="col-lg-12">
           <div class="form-group has-feedback">
